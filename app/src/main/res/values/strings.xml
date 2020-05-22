@@ -1,0 +1,12 @@
+<resources>
+    <string name="buton">HESAPLA !</string>
+    <string name="vize">Vize</string>
+    <string name="finalnotu">Final</string>
+    <string name="sapma">Standart Sapma</string>
+    <string name="ortalama">Sınıf Ortalaması</string>
+    <string name="bilgi">\n\n\n\n\n\n\nBurak Akdeniz © 2019</string>
+    <string name="desc">Image</string>
+    <string name="hata">LÜTFEN SAYISAL DEĞER GİRİNİZ</string>
+    <string name="appname">Not Hesapla</string>
+    <string name="splashscreenname">Not Hesapla</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alfa_slab_one</item>
+        <item>@font/allan_bold</item>
+        <item>@font/amiko</item>
+        <item>@font/bad_script</item>
+        <item>@font/baloo</item>
+        <item>@font/bangers</item>
+        <item>@font/carter_one</item>
+        <item>@font/caveat_bold</item>
+        <item>@font/cormorant_light</item>
+        <item>@font/londrina_solid</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/merienda_one</item>
+        <item>@font/peralta</item>
+        <item>@font/yantramanav_bold</item>
+    </array>
+</resources>
